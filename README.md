@@ -6,8 +6,8 @@
 ## Table of Contents
 * [Problem statement](#problem-statement)
 * [Project pipeline](#project-pipeline)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 
 
 <!-- You can include any other section that is pertinent to your problem -->
